@@ -13,4 +13,6 @@ export PATH=$PATH:/${HOME}/bin/go
 #Installing vimrc: 
 1) Copy vimrc file into home directory.  In Linux ~/.vimrc 
 2) Run  `vim +PlugInstall +qall`
-# vimrc
+
+#References:
+- https://vim-bootstrap.com/ (used to bootsrap initial version of vimrc )
